@@ -1,0 +1,1 @@
+{"server_type": "neoforge", "server_version": "1.21.1 ", "tunnel_service": "playit"}

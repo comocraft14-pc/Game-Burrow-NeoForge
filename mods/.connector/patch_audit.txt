@@ -1,0 +1,11 @@
+==== Connector Mixin Patch Audit Summary ====
+Successful: 5
+Partial: 0
+Failed: 0
+Success rate: 100,00%        Accuracy: 100,00%
+=============================================
+
+Mixin method me/juancarloscp52/bedrockify/mixin/common/features/animalEatingParticles/WolfEntityMixin interactMob(Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+  >> Using org.sinytra.adapter.patch.transformer.dynamic.DynamicInjectorOrdinalPatch
+     - Update injection point ordinal from Context[target=null, ordinal=0] to 10
+
